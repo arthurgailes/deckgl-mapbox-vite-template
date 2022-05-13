@@ -4,6 +4,8 @@ specifiers:
   '@babel/core': '>=7.0.0 <8.0.0'
   '@chakra-ui/react': ^1.8.8
   '@deck.gl/core': '^8.0.0 '
+  '@deck.gl/layers': ^8.7.9
+  '@deck.gl/mapbox': ^8.7.9
   '@deck.gl/react': ^8.7.9
   '@emotion/react': ^11.9.0
   '@emotion/styled': ^11.8.1
@@ -36,6 +38,8 @@ specifiers:
 
 dependencies:
   '@chakra-ui/react': 1.8.8_8021b84ec8ff18477d479d84cde0245c
+  '@deck.gl/layers': 8.7.9_675bb70767b76ef76ae0d00625a3b9a5
+  '@deck.gl/mapbox': 8.7.9_@deck.gl+core@8.7.9
   '@deck.gl/react': 8.7.9_24f3db192de861756e3920afcf4e0862
   '@emotion/react': 11.9.0_0191d4f7d13d8e58ed45c49e4813c090
   '@emotion/styled': 11.8.1_71bb32ec948927cf157f054242616721
