@@ -1,0 +1,13 @@
+.mapControl {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 344px;
+  height: fit-content;
+  background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  margin: 24px;
+  padding: 10px 24px;
+  max-height: 96%;
+  overflow: hidden auto;
+}
